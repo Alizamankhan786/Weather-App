@@ -73,8 +73,16 @@
     color: #999;
   }
 
-
+  #btn{
+    display: block;
+    margin: auto;
+  }
+  #city{
+    display: block;
+    margin: auto;
+  }
+/* 
 #bg{
     background-image: url();
     background-repeat: no-repeat;
-}
+} */
